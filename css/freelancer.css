@@ -246,6 +246,10 @@ header.masthead .intro-text .skills {
     font-weight: 300;
 }
 
+header.masthead .btn-lg {
+    margin: 0px 5px;
+}
+
 @media (min-width: 768px) {
     header.masthead .container-inner {
         padding-top: 200px;
